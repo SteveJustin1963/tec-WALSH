@@ -1,2 +1,2 @@
 # tec-WALSH
-waveform synthesis using Walsh-function 
+waveform synthesis and experiments using Walsh-function 
